@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Test cache
+.pytest_cache/
+
+# Poetry
+poetry.lock
+
+# Mac systemfiler
+.DS_Store
+
+# IDE/editor-filer
+.vscode/
+.idea/
+
+# Playwright
+playwright-report/
